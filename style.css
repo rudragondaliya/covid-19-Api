@@ -97,13 +97,12 @@ footer {
   section.d-flex {
     background-color: #ff4f5b;
   }
-  
-  hr {
-    width: 60px;
-    background-color: #7c4dff;
-    height: 2px;
-  }
+
   
   .text-center.p-3 {
     background-color: rgba(0, 0),
+  }
+
+  p a{
+    text-decoration: none !important;
   }
