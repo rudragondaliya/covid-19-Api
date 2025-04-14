@@ -8,6 +8,14 @@
     font-size: 18px;
 }
 
+.nav-link{
+    transition: all 0.3s !important;
+}
+
+.nav-link:hover{
+    color: #ff4f5b !important;
+}
+
 .emergency-btn{
     font-size: 18px !important;
     background-color: #ff4f5b !important;
